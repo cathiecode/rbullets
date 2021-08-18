@@ -1,0 +1,20 @@
+setTexture("player", "assets/textures/player.bmp");
+setTexture("defaultbullet", "assets/textures/default_bullet.bmp");
+setTexture("specialbullet", "assets/textures/special_bullet.bmp");
+setTexture("defaultsprite", "assets/textures/default_sprite.bmp");
+setTexture("smallbullet", "assets/textures/small_bullet.bmp");
+setTexture("playerbullet", "assets/textures/player_bullet.bmp");
+setTexture("fg", "assets/textures/fg.bmp");
+setTexture("boss", "assets/textures/boss.bmp");
+setTexture("waterdrop", "assets/textures/water_drop.bmp");
+setTexture("whitecircle", "assets/textures/white_circle.bmp");
+setTexture("blackcircle", "assets/textures/black_circle.bmp");
+setTexture("result", "assets/textures/result.bmp");
+setTexture("title", "assets/textures/start.bmp");
+
+setAudio("playerbullet", "assets/audios/noiz1.wav");
+setAudio("defaultbullet", "assets/audios/noiz2.wav");
+setAudio("smallbullet", "assets/audios/noiz3.wav");
+setAudio("bulletentry", "assets/audios/entry1.wav");
+setAudio("miss", "assets/audios/miss.wav");
+setAudio("bosskill", "assets/audios/bosskill.wav");
